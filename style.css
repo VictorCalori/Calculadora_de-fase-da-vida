@@ -1,0 +1,19 @@
+*{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+ 
+}
+
+
+
+
+.calcular{
+  margin: auto;
+  color: white;
+  background-color: grey;
+  border: 20px;
+  padding: 15px;
+  width: 50%;
+  border-color: black;
+}
